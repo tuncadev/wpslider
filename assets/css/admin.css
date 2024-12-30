@@ -1,0 +1,16 @@
+ 
+  
+  
+
+  /* ADMIN */
+  button.button-remove {
+    background-color: red;
+    color: #fff;
+    margin-left: 20px;
+    border: 1px solid #c3c3c3;
+    padding: 0px 10px;
+    font-size: 13px;
+    line-height: 2.15384615;
+    min-height: 30px;
+    border-radius: 3px;
+  }
